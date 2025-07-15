@@ -19,7 +19,7 @@ _Use this Slack workspace to ask and answer questions about lectures, assignment
 
 ## Schedule
 
-The [schedule is on Google Calendar](). You can find the schedule for class meetings as well as important dates (when assignments are released, when they are due, as well as dates for quizzes/exams).
+The [schedule is on Google Calendar](https://calendar.google.com/calendar/embed?src=deb01312369da50b683f9b0d2fe1c2652354f6296bf65b119921b9632c842313%40group.calendar.google.com&ctz=America%2FVancouver). You can find the schedule for class meetings as well as important dates (when assignments are released, when they are due, as well as dates for quizzes/exams).
 
 In the calendar, **KP** is for sessions related to Prof. Pattabiraman's course on web applications and **SG** is for sessions related to Prof. Gopalakrishnan's course on algorithms.
 
