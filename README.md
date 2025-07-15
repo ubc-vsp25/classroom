@@ -1,4 +1,4 @@
-## Vancouver Summer Program 2025
+## Vancouver Summer Program 2025 - ELEC A
 
 > *This is the master repository for the Vancouver Summer Program 2025 offered by the Department of Electrical and Computer Engineering at The University of British Columbia.*
 
