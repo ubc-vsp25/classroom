@@ -14,9 +14,10 @@
     11. [Review](./lectures/review.pdf)
 * [Tutorials](./tutorials) - additional tutorials that might be useful
     * [Setting up Git](./tutorials/git-setup.md)
+	* [Git Tutorial Activity](./tutorials/git-tutorial.pdf)
 * [Assignment Group Registration](https://forms.gle/JuSf8aXsvPbZ4c157) - submit your groups here
 * [Assignments](./assignments) - assignments will be released here
-    1. [Assignment 1](./assignments/assignment-1) - Due 11:59PM Friday, July 21, 2025
-    2. [Assignment 2](./assignments/assignment-2) - Due 11:59PM Wednesday, July 24, 2025
-    3. [Assignment 3](./assignments/assignment-3) - Due 11:59PM Tuesday, July 30, 2025
+    1. [Assignment 1](./assignments/assignment-1) - Due 11:59PM Monday, July 21, 2025
+    2. [Assignment 2](./assignments/assignment-2) - Due 11:59PM Thursday, July 24, 2025
+    3. [Assignment 3](./assignments/assignment-3) - Due 11:59PM Wednesday, July 30, 2025
     4. [Assignment 4](./assignments/assignment-4) - Due 11:59PM Friday, August 1, 2025
