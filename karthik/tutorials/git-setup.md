@@ -41,7 +41,7 @@ In your repository, you should see nothing but the `.git` directory and a `.giti
 
 ```
 ~/projects/vsp-group-a$ git status
-On branch master
+On branch main
 nothing to commit, working directory clean
 ```
 
@@ -76,10 +76,10 @@ Type `git branch` again to see the list of branches
 ```
 ~/projects/vsp-group-a$ git branch
   assignment-0
-* master
+* main
 ```
 
-The list shows that the new branch was created, but you are still on the `master` branch.
+The list shows that the new branch was created, but you are still on the `main` branch.
 
 8. Begin working on `assignment-0` branch by checking it out via `git checkout` command.
 
