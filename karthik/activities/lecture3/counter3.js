@@ -5,12 +5,13 @@ function makeCounters(n) {
 	var counters = [];
 	for (var i=0; i<n; i++) {
 		counts[i] = 0;
-		counters[i] = (function(j) {
+		var lambda = (function(j) {
 			return function() {
 				counts[j]++;
 				return counts[j];
 			}
-		}) (i);
+		});
+		counters[i] = lambda(i);
 	};
 	return counters;
 }
@@ -18,6 +19,9 @@ function makeCounters(n) {
 var cs = makeCounters(10);
 console.log( cs[0]() );
 console.log( cs[4]() );
-
+console.log( cs[2]() );
+console.log( cs[4]() );
 console.log( cs[0]() );
+console.log( cs[2]() );
+console.log( cs[4]() );
 
