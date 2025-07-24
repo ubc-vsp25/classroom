@@ -26,4 +26,4 @@ The presentation mode will be implemented using a modal window. You will use [Ph
 ## Submission Instructions
 
 - Create a branch, and name it appropriately (eg. `assignment-3`)
-- Make sure to push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline (**August 3, 2022 11:59 PM**).
+- Make sure to push your changes to that branch before midnight (11:59 PM) on the date of the assignment deadline (**July 30, 2025 11:59 PM**).
