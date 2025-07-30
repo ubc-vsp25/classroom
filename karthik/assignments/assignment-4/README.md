@@ -18,6 +18,5 @@ In this assignment, you will remove the hardcoded list of images from your code,
 
 ## Submission Instructions
 
-- Update either your own code from Assignment 3, or the sample solution code to accommodate the required changes for this assignment.
 - Create a branch, and name it appropriately (eg. assignment-4)
 - Make sure to push your changes to that branch before 11:59 PM on the date of the assignment deadline (**August 1, 2025 11:59 PM**).
